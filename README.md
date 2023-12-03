@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/result-summary-component-challange-desktop-version-using-html-and-css-J17DmdoIyr)
-- Live Site URL: [Add live site URL here](https://zwei9lake.github.io/result-summary-component/)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/result-summary-component-challange-desktop-version-using-html-and-css-J17DmdoIyr)
+- Live Site URL: [Live Site URL](https://zwei9lake.github.io/result-summary-component/)
 
 ### Built with
 
