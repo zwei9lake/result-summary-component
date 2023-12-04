@@ -27,11 +27,12 @@ Users should be able to:
 ### Screenshot
 
 ![](./assets/images/screenshot.jpg)
+![](./assets/images/mobile-screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/result-summary-component-challange-desktop-version-using-html-and-css-J17DmdoIyr)
-- Live Site URL: [Live Site URL](https://zwei9lake.github.io/result-summary-component/)
+- Solution URL: [zwei9lake](https://www.frontendmentor.io/solutions/result-summary-component-challange-desktop-version-using-html-and-css-J17DmdoIyr)
+- Live Site URL: [zwei9lake](https://zwei9lake.github.io/result-summary-component/)
 
 ### Built with
 
