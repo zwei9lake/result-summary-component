@@ -32,7 +32,7 @@ main {
   background: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
   color: white;
   text-align: center;
-  width: 45%;
+  flex: 50%;
 }
 
 .your-result h3 {
@@ -72,7 +72,7 @@ main {
 .summary {
   border-radius: 2rem;
   padding: 20px;
-  width: 45%;
+  flex: 50%;
 }
 
 ul {
@@ -113,4 +113,20 @@ li {
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
+}
+
+@media screen and (max-width: 680px) {
+  body {
+    padding: 0;
+    margin: 0;
+  }
+  main {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    width: 100%;
+  }
+  .your-result {
+    margin-top: 100px;
+  }
 }
