@@ -59,13 +59,16 @@ main {
   font-weight: 800;
   margin: 15px 0 -25px;
 }
-.score h5 {
-  color: hsl(241, 100%, 89%);
+.score p {
+  font-size: 16px;
+  font-weight: bold;
+  color: hsla(241, 100%, 89%, 0.5);
 }
 
-.caption h5 {
+.caption p {
+  font-size: 13px;
   font-weight: 500;
-  color: hsl(241, 100%, 89%);
+  color: hsla(241, 100%, 89%, 0.8);
   margin: -30px 20px 20px;
 }
 
@@ -115,18 +118,21 @@ li {
   color: hsl(228, 45%, 44%);
 }
 
-@media screen and (max-width: 680px) {
+@media screen and (max-width: 900px) {
   body {
     padding: 0;
     margin: 0;
+    height: 100%;
+    justify-content: space-between;
   }
   main {
     display: flex;
     justify-content: space-around;
     flex-direction: column;
     width: 100%;
+    margin: 0;
   }
   .your-result {
-    margin-top: 100px;
+    border-radius: 0 0 2rem 2rem;
   }
 }
